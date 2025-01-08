@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "94d53f08b5f99a97",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "e7c24619b6d1c8c3",
+        "id": "a001a1c2761a5efc",
         "type": "tabs",
         "children": [
           {
-            "id": "81603c1e0338900d",
+            "id": "7b6da2b7cd7e381a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Navigation.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Navigation"
+              "title": "New tab"
             }
           }
         ]
@@ -74,13 +70,13 @@
             }
           },
           {
-            "id": "3e6b6c5d1cdf08ba",
+            "id": "717e0e3129e86fbe",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
+              "type": "recent-files",
               "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -103,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +109,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Navigation"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -122,12 +118,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Navigation"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -141,6 +137,16 @@
               },
               "icon": "lucide-tags",
               "title": "Tags"
+            }
+          },
+          {
+            "id": "39bbb0069301d2d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ],
@@ -159,28 +165,49 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "81603c1e0338900d",
+  "active": "3afc68d927ebb4f1",
   "lastOpenFiles": [
-    "000 UiT/000 UiT.md",
-    "200 Work/200 Work.md",
-    "Navigation.md",
-    "100 Personal/100 Personal.md",
-    ".md",
-    "000 UiT/020 Semester 2/023 GameLab",
-    "000 UiT/020 Semester 2/022 Advanced Distributed Systems",
-    "000 UiT/020 Semester 2/021 Advanced Database Systems",
-    "000 UiT/010 Semester 1/013 Parallel Programming",
-    "000 UiT/010 Semester 1/012 Advanced Computer Security",
-    "000 UiT/010 Semester 1/011 Distributed Systems",
-    "000 UiT/020 Semester 2",
-    "000 UiT/010 Semester 1",
-    "100 Personal/130 Documents/131 Portfolio",
-    "200 Work/Untitled.md",
-    "Welcome.md"
+    "99 - Meta/Images",
+    "01 - UiT/01 - UiT.md",
+    "().md",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Next Generation Databases.md",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Next Generation Databases/Databases of the Future.md",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Next Generation Databases/Languages and Programming Interfaces.md",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Next Generation Databases/Data Models and Storage.md",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Next Generation Databases/Consistency Models.md",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Next Generation Databases/Distributed Database Patterns.md",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Next Generation Databases/The end of Disk - SSD and In-Memory Databases.md",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Principles of Distributed Database Systems.md",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Next Generation Databases/Column Databases.md",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Next Generation Databases/Tables are Not Your Friends - Graph Databases.md",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Next Generation Databases/Document Databases.md",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Next Generation Databases/Sharding Amazon and the Birth of NoSQL.md",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Next Generation Databases/Google Big Data and Hadoop.md",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Next Generation Databases/Three Database Revolutions.md",
+    "01 - UiT/21-2 - Advanced Database Systems/021 - Advanced Database Systems.md",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Next Generation Databases",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Database system Concepts.md",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Principles of Distributed Database Systems/Polystores.md",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Principles of Distributed Database Systems/NoSQL.md",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Principles of Distributed Database Systems/NewSQL.md",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Principles of Distributed Database Systems/Multi-database Systems.md",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Principles of Distributed Database Systems/Database Integration.md",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Database system Concepts/Information Retrieval.md",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Database system Concepts/Parallel and Distributed Storage.md",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Principles of Distributed Database Systems",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Database system Concepts/Complex Data Types",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Database system Concepts/Parallel and Distributed Transaction Processing",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Database system Concepts/Information Retrieval",
+    "99 - Meta/Templates",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Database system Concepts/Parallel and Distributed Storage",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Database system Concepts/Data Analytics",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Database system Concepts/Big Data",
+    "99 - Meta/Images/Pasted image 20250108180618.png"
   ]
 }

@@ -20,7 +20,7 @@
   "spacesEnabled": true,
   "syncFormulaToFrontmatter": true,
   "spacesPerformance": false,
-  "currentWaypoint": 0,
+  "currentWaypoint": 2,
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
@@ -36,7 +36,10 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Tags"
+    "//00 UiT",
+    "02 - Areas/000 - UiT",
+    "02 - Areas/000 - UiT/02 - Areas/000 - UiT/021 - Advanced Database Systems",
+    "02 - Areas/000 - UiT/02 - Areas/000 - UiT/022 - GameLab/02 - Areas/000 - UiT/022 - GameLab/Lectures"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

@@ -1,5 +1,12 @@
 {
-  "cssTheme": "Shiba Inu",
+  "cssTheme": "Vanilla AMOLED",
   "baseFontSize": 16,
-  "accentColor": "#208db1"
+  "accentColor": "#208db1",
+  "interfaceFontFamily": "JetBrains Mono,0xProto Nerd Font",
+  "textFontFamily": "JetBrains Mono,0xProto Nerd Font",
+  "monospaceFontFamily": "JetBrains Mono,0xProto Nerd Font",
+  "enabledCssSnippets": [
+    "sidebar",
+    "general"
+  ]
 }

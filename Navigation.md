@@ -1,5 +1,0 @@
----
-sticker: ""
-banner: 
-tags: []
----

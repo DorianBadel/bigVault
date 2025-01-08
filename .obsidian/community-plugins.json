@@ -1,11 +1,14 @@
 [
-  "obsidian-style-settings",
-  "obsidian-git",
   "dataview",
   "obsidian-excalidraw-plugin",
-  "obsidian-minimal-settings",
-  "make-md",
-  "obsidian-icon-folder",
   "templater-obsidian",
-  "cmdr"
+  "cmdr",
+  "obsidian-style-settings",
+  "obsidian-minimal-settings",
+  "obsidian-completr",
+  "homepage",
+  "obsidian-icon-folder",
+  "url-into-selection",
+  "recent-files-obsidian",
+  "settings-search"
 ]
