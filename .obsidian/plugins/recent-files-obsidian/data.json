@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Pasted image 20250108180618",
-      "path": "99 - Meta/Images/Pasted image 20250108180618.png"
+      "basename": "Database-System Architectures",
+      "path": "01 - UiT/21-2 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures.md"
+    },
+    {
+      "basename": "Database system Concepts",
+      "path": "01 - UiT/21-2 - Advanced Database Systems/Reading/Database system Concepts.md"
     },
     {
       "basename": "01 - UiT",
       "path": "01 - UiT/01 - UiT.md"
+    },
+    {
+      "basename": "Home",
+      "path": "00 - Maps of Content/Home.md"
+    },
+    {
+      "basename": "Pasted image 20250108180618",
+      "path": "99 - Meta/Images/Pasted image 20250108180618.png"
     },
     {
       "basename": "Next Generation Databases",
@@ -69,10 +81,6 @@
       "path": "01 - UiT/21-2 - Advanced Database Systems/021 - Advanced Database Systems.md"
     },
     {
-      "basename": "Database system Concepts",
-      "path": "01 - UiT/21-2 - Advanced Database Systems/Reading/Database system Concepts.md"
-    },
-    {
       "basename": "Polystores",
       "path": "01 - UiT/21-2 - Advanced Database Systems/Reading/Principles of Distributed Database Systems/Polystores.md"
     },
@@ -121,20 +129,12 @@
       "path": "01 - UiT/21-2 - Advanced Database Systems/Reading/Database system Concepts/Data Analytics.md"
     },
     {
-      "basename": "Database-System Architectures",
-      "path": "01 - UiT/21-2 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures.md"
-    },
-    {
       "basename": "Book template default",
       "path": "99 - Meta/Templates/Book template default.md"
     },
     {
       "basename": "High-level concept",
       "path": "01 - UiT/22-2 - GameLab/Milestones/High-level concept.md"
-    },
-    {
-      "basename": "Home",
-      "path": "00 - Maps of Content/Home.md"
     },
     {
       "basename": "Distributed Query Processing",
