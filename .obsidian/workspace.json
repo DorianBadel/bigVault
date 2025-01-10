@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - UiT/21-2 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures.md",
+                "file": "01 - UiT/21-2 - Advanced Database Systems/Lectures/21 Advanced database systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Database-System Architectures"
+              "title": "21 Advanced database systems"
             }
           }
         ]
@@ -177,9 +177,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Pasted image 20250109235022.png",
-    "01 - UiT/21-2 - Advanced Database Systems/Reading/Database system Concepts.md",
+    "01 - UiT/21-2 - Advanced Database Systems/021 - Advanced Database Systems.md",
+    "99 - Meta/Templates/Lecture.md",
+    "01 - UiT/21-2 - Advanced Database Systems/Lectures/21 Advanced database systems.md",
     "01 - UiT/01 - UiT.md",
+    "01 - UiT/21-2 - Advanced Database Systems/Lectures",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Database system Concepts.md",
+    "01 - UiT/21-2 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures.md",
+    "Pasted image 20250109235022.png",
     "00 - Maps of Content/Home.md",
     "99 - Meta/Images",
     "().md",
@@ -197,14 +202,11 @@
     "01 - UiT/21-2 - Advanced Database Systems/Reading/Next Generation Databases/Sharding Amazon and the Birth of NoSQL.md",
     "01 - UiT/21-2 - Advanced Database Systems/Reading/Next Generation Databases/Google Big Data and Hadoop.md",
     "01 - UiT/21-2 - Advanced Database Systems/Reading/Next Generation Databases/Three Database Revolutions.md",
-    "01 - UiT/21-2 - Advanced Database Systems/021 - Advanced Database Systems.md",
     "01 - UiT/21-2 - Advanced Database Systems/Reading/Next Generation Databases",
     "01 - UiT/21-2 - Advanced Database Systems/Reading/Principles of Distributed Database Systems/Polystores.md",
     "01 - UiT/21-2 - Advanced Database Systems/Reading/Principles of Distributed Database Systems/NoSQL.md",
     "01 - UiT/21-2 - Advanced Database Systems/Reading/Principles of Distributed Database Systems/NewSQL.md",
     "01 - UiT/21-2 - Advanced Database Systems/Reading/Principles of Distributed Database Systems/Multi-database Systems.md",
-    "01 - UiT/21-2 - Advanced Database Systems/Reading/Principles of Distributed Database Systems/Database Integration.md",
-    "01 - UiT/21-2 - Advanced Database Systems/Reading/Database system Concepts/Information Retrieval.md",
     "01 - UiT/21-2 - Advanced Database Systems/Reading/Principles of Distributed Database Systems",
     "01 - UiT/21-2 - Advanced Database Systems/Reading/Database system Concepts/Complex Data Types",
     "01 - UiT/21-2 - Advanced Database Systems/Reading/Database system Concepts/Parallel and Distributed Transaction Processing",
@@ -212,7 +214,6 @@
     "99 - Meta/Templates",
     "01 - UiT/21-2 - Advanced Database Systems/Reading/Database system Concepts/Parallel and Distributed Storage",
     "01 - UiT/21-2 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures",
-    "01 - UiT/21-2 - Advanced Database Systems/Reading/Database system Concepts/Data Analytics",
     "99 - Meta/Images/Pasted image 20250108180618.png"
   ]
 }

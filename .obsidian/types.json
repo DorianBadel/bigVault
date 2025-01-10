@@ -28,6 +28,8 @@
     "start": "number",
     "end": "number",
     "type": "text",
-    "read": "checkbox"
+    "read": "checkbox",
+    "lecture": "number",
+    "week": "number"
   }
 }

@@ -36,6 +36,11 @@ DFFJ
 DDDDDyXpp
 DY
 DDDDDD
+Designed
+DBs
+DBMS
+Distribution
+Doesn
 milestone
 models
 means
@@ -83,6 +88,9 @@ mp
 mU
 mjU
 mb
+management
+manage
+mean
 tags
 they
 to
@@ -142,6 +150,10 @@ tN
 tF
 tV
 tP
+transaction
+treated
+top
+transactional
 gameLab
 goal
 graphs
@@ -179,6 +191,10 @@ gX
 ghhH
 gn
 gL
+group
+ground
+give
+generalization
 Type
 The
 This
@@ -216,6 +232,9 @@ TwD
 TJD
 TLqxp
 Tt
+Transaction
+Transactional
+They
 Exam
 Each
 Extensible
@@ -273,6 +292,7 @@ MK
 MMM
 Mv
 MHa
+Management
 color
 calendar
 check
@@ -322,6 +342,19 @@ cn
 cJ
 cT
 cZ
+commercial
+communicated
+call
+calls
+characteristics
+components
+control
+community
+corner
+centralized
+consistency
+cannot
+certainly
 sticker
 start
 support
@@ -386,6 +419,10 @@ sy
 sfN
 sW
 sB
+server
+storing
+slide
+say
 lucide
 languages
 language
@@ -417,6 +454,9 @@ lV
 lY
 ll
 lw
+lecture
+local
+left
 brain
 but
 between
@@ -455,6 +495,10 @@ bc
 bpE
 bsz
 bwt
+bottom
+built
+blanked
+best
 Completed
 Creating
 CS
@@ -522,6 +566,7 @@ ff
 fb
 fM
 fD
+fit
 exam
 end
 express
@@ -569,6 +614,10 @@ eW
 eR
 erk
 eRrKv
+existing
+exploring
+expect
+everything
 apps
 are
 access
@@ -637,6 +686,12 @@ ad
 aE
 aV
 aho
+actions
+autonomy
+away
+almost
+again
+amounts
 written
 we
 want
@@ -678,6 +733,8 @@ wH
 wa
 wk
 wq
+week
+willing
 in
 is
 information
@@ -713,6 +770,7 @@ iQnp
 iHHH
 iM
 iV
+issues
 object
 oriented
 or
@@ -749,6 +807,8 @@ opp
 ojn
 oa
 oY
+one
+ownership
 need
 natively
 no
@@ -780,6 +840,7 @@ nD
 nO
 nl
 nS
+never
 use
 using
 user
@@ -821,6 +882,12 @@ uO
 ur
 uZ
 uu
+unit
+up
+updated
+updates
+updating
+umbrella
 databases
 database
 different
@@ -860,6 +927,9 @@ dbE
 djj
 dim
 dr
+distributed
+distribution
+deal
 relational
 references
 redefine
@@ -915,6 +985,10 @@ rvP
 ra
 rX
 rCX
+remote
+result
+receive
+relax
 SQL
 Same
 Student
@@ -954,6 +1028,7 @@ SG
 SE
 SM
 SF
+She
 programming
 permit
 people
@@ -1002,6 +1077,9 @@ pIs
 pq
 pv
 pd
+processing
+procedure
+principle
 We
 Wide
 Web
@@ -1029,6 +1107,8 @@ WC
 Wn
 WUq
 WW
+Warehousing
+What
 have
 head
 help
@@ -1059,6 +1139,9 @@ hV
 hR
 hg
 hS
+heterogeneity
+heterogeneous
+historical
 Approaches
 Automatically
 Also
@@ -1092,6 +1175,8 @@ Ay
 Au
 AWv
 ADd
+Autonomy
+ACID
 Build
 Both
 Bi
@@ -1138,6 +1223,7 @@ BZ
 BDH
 Baq
 Bl
+Built
 OO
 Object
 ORM
@@ -1224,6 +1310,7 @@ IK
 Ih
 Ii
 IQ
+Information
 PGSQL
 Path
 PL
@@ -1253,6 +1340,7 @@ Pau
 PQ
 Po
 Ps
+Primary
 Reference
 References
 Resource
@@ -1285,6 +1373,9 @@ Raje
 RRR
 Rt
 Rn
+Relational
+Requests
+RPC
 key
 known
 knowledge
@@ -1381,6 +1472,7 @@ vm
 vh
 vvG
 vR
+volumes
 joins
 job
 judged
@@ -1406,6 +1498,7 @@ jy
 ja
 jU
 jV
+just
 Hibernate
 Hyperlinks
 How
@@ -1434,6 +1527,9 @@ HHLL
 HI
 HB
 HLH
+Heterogeneous
+Heterogeneity
+Huge
 Java
 JSON
 JavaScript
@@ -1543,6 +1639,7 @@ ND
 NU
 Nb
 Ne
+NoSQL
 Leaving
 Language
 Linking
@@ -1564,6 +1661,7 @@ LeLDD
 Lix
 LZ
 Ln
+Lots
 Graph
 Google
 Game
@@ -1796,3 +1894,4 @@ yj
 yBv
 yq
 yF
+you

@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "99 - Meta/Images"
+  "newFileFolderPath": "99 - Meta/Images",
+  "vimMode": true
 }

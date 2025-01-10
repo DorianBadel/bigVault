@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Database-System Architectures",
-      "path": "01 - UiT/21-2 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures.md"
+      "basename": "21 Advanced database systems",
+      "path": "01 - UiT/21-2 - Advanced Database Systems/Lectures/21 Advanced database systems.md"
+    },
+    {
+      "basename": "021 - Advanced Database Systems",
+      "path": "01 - UiT/21-2 - Advanced Database Systems/021 - Advanced Database Systems.md"
+    },
+    {
+      "basename": "Lecture",
+      "path": "99 - Meta/Templates/Lecture.md"
+    },
+    {
+      "basename": "01 - UiT",
+      "path": "01 - UiT/01 - UiT.md"
     },
     {
       "basename": "Database system Concepts",
       "path": "01 - UiT/21-2 - Advanced Database Systems/Reading/Database system Concepts.md"
     },
     {
-      "basename": "01 - UiT",
-      "path": "01 - UiT/01 - UiT.md"
+      "basename": "Database-System Architectures",
+      "path": "01 - UiT/21-2 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures.md"
     },
     {
       "basename": "Home",
@@ -75,10 +87,6 @@
     {
       "basename": "Three Database Revolutions",
       "path": "01 - UiT/21-2 - Advanced Database Systems/Reading/Next Generation Databases/Three Database Revolutions.md"
-    },
-    {
-      "basename": "021 - Advanced Database Systems",
-      "path": "01 - UiT/21-2 - Advanced Database Systems/021 - Advanced Database Systems.md"
     },
     {
       "basename": "Polystores",
