@@ -1,12 +1,13 @@
-## Game Lab
+## [[022 - GameLab]]
 ```dataview
 TABLE WITHOUT ID file.link as Milestone, Due, Completed
 FROM #gameLab
+WHERE contains(tags, "milestone") OR contains(tags, "exam")
 FLATTEN choice(Completed, "✨","") AS Completed
 SORT Due
 ```
 
-## Advanced Databases
+## [[021 - Advanced Database Systems]]
 ```dataviewjs
 // Initialize counters and titles
 let totalReadPages = 0;
@@ -14,7 +15,7 @@ let totalPages = 0;
 let results = [];
 
 // Specify the parent folder
-let parentFolder = "01 - UiT/21-2 - Advanced Database Systems/Reading";
+let parentFolder = "01 - UiT/21-1 - Advanced Database Systems/Reading";
 
 // Get all files in the parent folder
 let files = dv.pages(`"${parentFolder}"`)
@@ -72,16 +73,17 @@ for (let file of files) {
 dv.table(["Title", "Completion"], results);
 ```
 
-
 ```dataview
-TABLE WITHOUT ID file.link as "Advanced Databases", Due, Completed
+TABLE WITHOUT ID file.link as "Advanced Databases", Tags
 FROM #advancedDatabases
-SORT Due
+WHERE !contains(tags, "subject")
+FLATTEN choice(contains(tags, "lecture"), "🎓", "📕") as Tags 
+SORT tags
 ```
 
+## [[020 - Advanced Distributed Systems]]
 ```dataview
 TABLE WITHOUT ID file.link as "Advanced Distributed", Due, Completed
 FROM #advancedDistributed
 SORT Due
 ```
-

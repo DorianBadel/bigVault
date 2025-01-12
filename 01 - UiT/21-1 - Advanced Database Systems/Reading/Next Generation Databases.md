@@ -1,6 +1,7 @@
 ---
 tags:
   - advancedDatabases
+  - book
 ---
 
 ```dataview

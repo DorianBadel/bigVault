@@ -64,7 +64,7 @@ LIS -
 #### Distributed Data Storage partitioning and replication
 Relation - table
 #### Horizontal partitioning
-Perform a select for say a branch_name (if that is what we want to partition by) and place the result in a partition
+Perform a select for say a `branch_name` (if that is what we want to partition by) and place the result in a partition
 #### Vertical partitioning
 Creating two different partitions. (keeping `touple_id` for later joining)
 #### Virtual Node Partitioning
