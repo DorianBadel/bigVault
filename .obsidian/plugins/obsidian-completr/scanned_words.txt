@@ -192,6 +192,7 @@ toFixed
 totals
 totalReadPages
 totalPages
+their
 gameLab
 goal
 graphs
@@ -356,6 +357,7 @@ Map
 Measure
 Moving
 Milestones
+Matching
 color
 calendar
 check
@@ -450,6 +452,9 @@ colored
 complicates
 cool
 conceptual
+conflicts
+conflict
+carID
 sticker
 start
 support
@@ -555,6 +560,8 @@ stored
 select
 skew
 subject
+strict
+software
 lucide
 languages
 language
@@ -601,6 +608,7 @@ less
 law
 let
 later
+layer
 brain
 but
 between
@@ -651,6 +659,7 @@ blocks
 basis
 being
 build
+bookID
 Completed
 Creating
 CS
@@ -808,6 +817,9 @@ escalation
 extremely
 entire
 external
+extremes
+enough
+eligable
 apps
 are
 access
@@ -905,6 +917,9 @@ advancedDistributed
 allowed
 around
 atomicity
+advanced
+agree
+assignments
 written
 we
 want
@@ -956,6 +971,7 @@ will
 worse
 wrong
 where
+warehousing
 in
 is
 information
@@ -1007,6 +1023,9 @@ increasing
 increases
 initiating
 impossible
+individually
+isn
+integration
 object
 oriented
 or
@@ -1055,6 +1074,9 @@ optimization
 obtaining
 overshadow
 over
+opposites
+others
+ontologies
 need
 natively
 no
@@ -1203,6 +1225,8 @@ determine
 dataview
 designing
 due
+decision
+decide
 relational
 references
 redefine
@@ -1291,6 +1315,7 @@ rate
 replication
 real
 reading
+resolution
 SQL
 Same
 Student
@@ -1348,6 +1373,7 @@ Skew
 Specify
 SORT
 Slide
+SOSP
 programming
 permit
 people
@@ -1432,6 +1458,10 @@ partition
 place
 partitions
 property
+preview
+pattern
+papers
+presented
 We
 Wide
 Web
@@ -1462,6 +1492,7 @@ WW
 Warehousing
 What
 WITHOUT
+Without
 have
 head
 help
@@ -1503,6 +1534,7 @@ here
 housed
 held
 handling
+homonyms
 Approaches
 Automatically
 Also
@@ -1514,7 +1546,6 @@ Attributes
 All
 Another
 Adding
-Advanced
 AI
 AZ
 Axp
@@ -1550,6 +1581,7 @@ Amdahl
 As
 Add
 Accumulate
+Alt
 Build
 Both
 Bi
@@ -1634,6 +1666,8 @@ OODBs
 Open
 Other
 Oral
+OLAP
+Ontology
 User
 Used
 Using
@@ -1698,6 +1732,9 @@ Interconnection
 Iterate
 Interquery
 Intraquery
+Integration
+Interoperability
+Issues
 PGSQL
 Path
 PL
@@ -1781,6 +1818,7 @@ Reading
 RDBMS
 Require
 Relation
+Read
 key
 known
 knowledge
@@ -1883,6 +1921,7 @@ volumes
 validity
 vs
 virtual
+vocabulary
 joins
 job
 judged
@@ -2020,6 +2059,8 @@ File
 Function
 FFFFFF
 FROM
+From
+Further
 XML
 XQ
 Xm
@@ -2069,6 +2110,7 @@ Networks
 Nothing
 Node
 Next
+Naming
 Leaving
 Language
 Linking
@@ -2131,6 +2173,8 @@ GS
 GRL
 Gustafson
 Get
+Going
+Groups
 Keyword
 Knowledge
 Kem
@@ -2199,6 +2243,7 @@ QX
 QhZ
 QRM
 Queries
+Query
 ZU
 ZemT
 Zj

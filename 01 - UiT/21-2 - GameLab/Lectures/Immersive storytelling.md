@@ -1,8 +1,8 @@
 ---
 tags:
   - lecture
+  - gameLab
 lecture: 
 week:
 ---
-###### Further reading
-#### Slide title
+## 

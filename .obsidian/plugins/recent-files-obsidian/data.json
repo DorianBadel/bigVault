@@ -1,16 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "32",
+      "path": "01 - UiT/21-1 - Advanced Database Systems/Lectures/32.md"
+    },
+    {
+      "basename": "Lecture",
+      "path": "99 - Meta/Templates/Lecture.md"
+    },
+    {
+      "basename": "Intro lecture",
+      "path": "01 - UiT/21-0 - Advanced Distributed Systems/lectures/Intro lecture.md"
+    },
+    {
+      "basename": "21 Advanced database systems",
+      "path": "01 - UiT/21-1 - Advanced Database Systems/Lectures/21 Advanced database systems.md"
+    },
+    {
+      "basename": "31 Data integration Interoperability and Heterogeneous Distributed Databases",
+      "path": "01 - UiT/21-1 - Advanced Database Systems/Lectures/31 Data integration Interoperability and Heterogeneous Distributed Databases.md"
+    },
+    {
+      "basename": "Lectures",
+      "path": "01 - UiT/21-1 - Advanced Database Systems/Lectures/Lectures.md"
+    },
+    {
+      "basename": "Home",
+      "path": "00 - Maps of Content/Home.md"
+    },
+    {
+      "basename": "Immersive storytelling",
+      "path": "01 - UiT/21-2 - GameLab/Lectures/Immersive storytelling.md"
+    },
+    {
+      "basename": "Lectures",
+      "path": "01 - UiT/21-2 - GameLab/Lectures/Lectures.md"
+    },
+    {
+      "basename": "Lectures",
+      "path": "01 - UiT/21-0 - Advanced Distributed Systems/lectures/Lectures.md"
+    },
+    {
+      "basename": "020 - Advanced Distributed Systems",
+      "path": "01 - UiT/21-0 - Advanced Distributed Systems/020 - Advanced Distributed Systems.md"
+    },
+    {
       "basename": "Principles of Distributed Database Systems",
       "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Principles of Distributed Database Systems.md"
     },
     {
       "basename": "Next Generation Databases",
       "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Next Generation Databases.md"
-    },
-    {
-      "basename": "Lectures",
-      "path": "01 - UiT/21-1 - Advanced Database Systems/Lectures/Lectures.md"
     },
     {
       "basename": "Database system Concepts",
@@ -21,20 +61,12 @@
       "path": "01 - UiT/21-1 - Advanced Database Systems/021 - Advanced Database Systems.md"
     },
     {
-      "basename": "21 Advanced database systems",
-      "path": "01 - UiT/21-1 - Advanced Database Systems/Lectures/21 Advanced database systems.md"
-    },
-    {
       "basename": "NewSQL",
       "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Principles of Distributed Database Systems/NewSQL.md"
     },
     {
       "basename": "022 - GameLab",
       "path": "01 - UiT/21-2 - GameLab/022 - GameLab.md"
-    },
-    {
-      "basename": "Lectures",
-      "path": "01 - UiT/21-2 - GameLab/Lectures/Lectures.md"
     },
     {
       "basename": "Oral Exam",
@@ -47,10 +79,6 @@
     {
       "basename": "High-level concept",
       "path": "01 - UiT/21-2 - GameLab/Milestones/High-level concept.md"
-    },
-    {
-      "basename": "020 - Advanced Distributed Systems",
-      "path": "01 - UiT/21-0 - Advanced Distributed Systems/020 - Advanced Distributed Systems.md"
     },
     {
       "basename": "Subject",
@@ -107,14 +135,6 @@
     {
       "basename": "Parallel and Distributed Storage",
       "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Parallel and Distributed Storage.md"
-    },
-    {
-      "basename": "Lecture",
-      "path": "99 - Meta/Templates/Lecture.md"
-    },
-    {
-      "basename": "Home",
-      "path": "00 - Maps of Content/Home.md"
     },
     {
       "basename": "Pasted image 20250108180618",
@@ -179,26 +199,6 @@
     {
       "basename": "Multi-database Systems",
       "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Principles of Distributed Database Systems/Multi-database Systems.md"
-    },
-    {
-      "basename": "Database Integration",
-      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Principles of Distributed Database Systems/Database Integration.md"
-    },
-    {
-      "basename": "Information Retrieval",
-      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Information Retrieval.md"
-    },
-    {
-      "basename": "Big Data",
-      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Big Data.md"
-    },
-    {
-      "basename": "Textual Data",
-      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Complex Data Types/Textual Data.md"
-    },
-    {
-      "basename": "Book template default",
-      "path": "99 - Meta/Templates/Book template default.md"
     }
   ],
   "omittedPaths": [],
