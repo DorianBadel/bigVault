@@ -113,6 +113,8 @@ multiprocessor
 mention
 make
 map
+made
+metadata
 tags
 they
 to
@@ -455,6 +457,8 @@ conceptual
 conflicts
 conflict
 carID
+communication
+computers
 sticker
 start
 support
@@ -562,6 +566,8 @@ skew
 subject
 strict
 software
+semantics
+semi
 lucide
 languages
 language
@@ -609,6 +615,7 @@ law
 let
 later
 layer
+listener
 brain
 but
 between
@@ -920,6 +927,7 @@ atomicity
 advanced
 agree
 assignments
+assuming
 written
 we
 want
@@ -1026,6 +1034,7 @@ impossible
 individually
 isn
 integration
+implicit
 object
 oriented
 or
@@ -1077,6 +1086,7 @@ over
 opposites
 others
 ontologies
+oracle
 need
 natively
 no
@@ -1374,6 +1384,7 @@ Specify
 SORT
 Slide
 SOSP
+Semantics
 programming
 permit
 people
@@ -1462,6 +1473,7 @@ preview
 pattern
 papers
 presented
+paper
 We
 Wide
 Web
@@ -1535,6 +1547,7 @@ housed
 held
 handling
 homonyms
+human
 Approaches
 Automatically
 Also
@@ -1855,6 +1868,7 @@ kZb
 kX
 keys
 keeping
+knows
 queries
 quickly
 quotes
