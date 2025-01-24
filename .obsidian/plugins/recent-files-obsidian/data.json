@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "41 Systems Research",
-      "path": "01 - UiT/21-0 - Advanced Distributed Systems/lectures/41 Systems Research.md"
+      "basename": "Parallel Systems",
+      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures/Parallel Systems.md"
     },
     {
-      "basename": "31 Intro lecture",
-      "path": "01 - UiT/21-0 - Advanced Distributed Systems/lectures/31 Intro lecture.md"
+      "basename": "Database-System Architectures",
+      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures.md"
     },
     {
-      "basename": "Lectures",
-      "path": "01 - UiT/21-0 - Advanced Distributed Systems/lectures/Lectures.md"
+      "basename": "Database system Concepts",
+      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts.md"
     },
     {
-      "basename": "020 - Advanced Distributed Systems",
-      "path": "01 - UiT/21-0 - Advanced Distributed Systems/020 - Advanced Distributed Systems.md"
+      "basename": "21 Advanced database systems",
+      "path": "01 - UiT/21-1 - Advanced Database Systems/Lectures/21 Advanced database systems.md"
     },
     {
       "basename": "021 - Advanced Database Systems",
@@ -29,16 +29,28 @@
       "path": "00 - Maps of Content/Home.md"
     },
     {
+      "basename": "020 - Advanced Distributed Systems",
+      "path": "01 - UiT/21-0 - Advanced Distributed Systems/020 - Advanced Distributed Systems.md"
+    },
+    {
+      "basename": "41 Systems Research",
+      "path": "01 - UiT/21-0 - Advanced Distributed Systems/lectures/41 Systems Research.md"
+    },
+    {
+      "basename": "31 Intro lecture",
+      "path": "01 - UiT/21-0 - Advanced Distributed Systems/lectures/31 Intro lecture.md"
+    },
+    {
+      "basename": "Lectures",
+      "path": "01 - UiT/21-0 - Advanced Distributed Systems/lectures/Lectures.md"
+    },
+    {
       "basename": "32 Semi-structured data, Syntactic and semantic interoperability",
       "path": "01 - UiT/21-1 - Advanced Database Systems/Lectures/32 Semi-structured data, Syntactic and semantic interoperability.md"
     },
     {
       "basename": "Lecture",
       "path": "99 - Meta/Templates/Lecture.md"
-    },
-    {
-      "basename": "21 Advanced database systems",
-      "path": "01 - UiT/21-1 - Advanced Database Systems/Lectures/21 Advanced database systems.md"
     },
     {
       "basename": "31 Data integration Interoperability and Heterogeneous Distributed Databases",
@@ -63,10 +75,6 @@
     {
       "basename": "Next Generation Databases",
       "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Next Generation Databases.md"
-    },
-    {
-      "basename": "Database system Concepts",
-      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts.md"
     },
     {
       "basename": "NewSQL",
@@ -101,16 +109,8 @@
       "path": "01 - UiT/21-2 - GameLab/Milestones/Prototype.md"
     },
     {
-      "basename": "Database-System Architectures",
-      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures.md"
-    },
-    {
       "basename": "Object Orientation",
       "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Complex Data Types/Object Orientation.md"
-    },
-    {
-      "basename": "Parallel Systems",
-      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures/Parallel Systems.md"
     },
     {
       "basename": "Server System Architectures",

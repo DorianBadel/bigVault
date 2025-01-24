@@ -40,6 +40,36 @@ Handling larger tasks in the same time by increasing the degree of parallelism.
 **Skew** - Dividing a task into uneven pieces, which is often the case will result in worse results. As the slowest step will determine the service time for the entire task.
 
 ### Interconnection Networks
+Components (processors, memory and disks) that communicate with each other through an interconnection network (set up in any of the following ways).
 
+![[Pasted image 20250123210809.png]]
 
+- **Bus** - All components can send data on and receive data from a single communication bus. Less used nowadays since it doesn't scale well. Used for connecting multiple CPUs and memory units.
+- **Ring** - More scalable because multiple components can send messages at the same time. Might incur many hops to transmit data from node to node so not the best.
+- **Mesh** - Scales well with increasing parallelism (more connections). Doesn't scale well with many nodes so not used today.
+- **Hypercube** - better then a mesh. Less hops between components. Also no longer used.
+- **Tree-like** - Used in server systems in data centres. Unlike a tree topology used in LANs in organizations (and explained on a server bellow) tree-like (fat-tree) topologies have multiple aggregation and core switches connecting things. Can also add some fault-tolerance. Such architecture can handle tens of thousands of machines in a cluster. The complex interconnection networks in a data centre are referred to as a *data centre fabric*.
+> [!abstract] 
+> An example of tree-topology in servers:
+> Within a rack nodes (40 usually) are connected with **edge switches** (aka top-of-rack switches). They are then connected with **aggregation switches** connecting racks, if in a group one such switch connects a group of racks. All aggregation switches connect to a **core switch**.
+> A common bottleneck is bandwidth on the aggregation switch (just not fast enough to supply communication between racks). Hence the switch to the tree-like topology.
 
+Other than network topologies, network technology is also important.
+**Ethernet** - Dominant. They can be used on copper for short distances and optical fiber for longer distances.
+**Fiber channel** - Mainly used to implement storage area networks.
+**Infiniband** - Designed for data centres, where latency is also important as well as bandwidth. It has latency of 0.7-0.5 microseconds while ethernet can be up to hundreds of microseconds.
+
+- Communication latency can be significantly reduced by allowing direct access to the network interface (bypassing the OS).
+- **RDMA (Remote direct memory access)** can also reduce latency. Technology that allows a process on one node to write to memory on another node.
+
+### Parallel Database Architectures
+Architectural models for parallel machines:
+![[Pasted image 20250123215920.png]]
+- **[[#Shared disk]]** - Set of nodes share a set of disks. Each node has its own processor and memory. Also known as **clusters**
+- **[[#Shared Nothing]]** - Nodes don't share anything.
+- **[[#Hierarchical]]** - A mix of both, most widely used today.
+### Shared disk
+
+### Shared Nothing
+
+### Hierarchical
