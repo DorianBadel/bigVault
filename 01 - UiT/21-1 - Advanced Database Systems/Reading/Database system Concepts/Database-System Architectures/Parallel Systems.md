@@ -68,8 +68,33 @@ Architectural models for parallel machines:
 - **[[#Shared disk]]** - Set of nodes share a set of disks. Each node has its own processor and memory. Also known as **clusters**
 - **[[#Shared Nothing]]** - Nodes don't share anything.
 - **[[#Hierarchical]]** - A mix of both, most widely used today.
+### Shared Memory
+Extremely efficient communication between processes. Allows data in shared memory to be accessed by any process without being moved. Processes can send messages to others by using memory writes (much faster than messages through comms mechanisms).
+#### Shared Memory Architectures
+**Non uniform memory architecture (NUMA)** - Nowadays each processor has locally connected memory and can access memory associated to other processors.
+
+![[Pasted image 20250127214251.png]]
+The I/O controllers interface with external storage.
+It requires specialized interconnects so it is limited to just a small number of processors (a few hundred).
+#### Cache coherency
+Multiple cores, multiple caches and versions of the caches.
 ### Shared disk
+Advanteges over shared memory
+- can scale better
+- a cheep way to provide a degree of fault tolerance.
+![[Pasted image 20250127220408.png]]
+Storage-area network (SAN) - high speed LAN designed to collect large banks of storage devices (disks) to nodes that use the data.
 
+Is slower than shared memory systems due to the use of a communication network.
+Storage access can also become a bottleneck.
 ### Shared Nothing
+High speed interconnection network used for communication between nodes.
+Their transmission capacity increases when nodes are added.
+Are very scalable.
 
+Costs of communication and non local memory access are high.
+Widely used to deal with very large data volumes.
 ### Hierarchical
+At the top of the hierarchy are shared nothing systems.
+For example, with shared-memory architecture with a few processors at the base, and a shared-nothing architecture at the top, with possibly a shared-disk architecture in the middle.
+Pic [[Pasted image 20250123215920.png|20.5d]] shows shared-memory nodes connected to gather in a shared-nothing manner.

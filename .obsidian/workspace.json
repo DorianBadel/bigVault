@@ -6,6 +6,7 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
+        "dimension": 75.2840909090909,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -13,27 +14,116 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures/Parallel Systems.md",
+                "file": "01 - UiT/21-2 - GameLab/Milestones/High-level concept.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parallel Systems"
-            }
-          },
+              "title": "High-level concept"
+            },
+            "group": "e1d2ba38b6c540fc"
+          }
+        ]
+      },
+      {
+        "id": "21c199ca1c7bbbbc",
+        "type": "tabs",
+        "dimension": 24.71590909090909,
+        "children": [
           {
-            "id": "4731f99c0d044f71",
+            "id": "11a5238997fe90f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "localgraph",
               "state": {
-                "file": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures/Parallel Systems.md",
-                "mode": "source",
-                "source": false
+                "file": "01 - UiT/21-2 - GameLab/Milestones/High-level concept.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#milestone",
+                      "color": {
+                        "a": 1,
+                        "rgb": 8183220
+                      }
+                    },
+                    {
+                      "query": "tag:#lecture",
+                      "color": {
+                        "a": 1,
+                        "rgb": 12312424
+                      }
+                    },
+                    {
+                      "query": "[\"type\":sub-chapter]",
+                      "color": {
+                        "a": 1,
+                        "rgb": 7057371
+                      }
+                    },
+                    {
+                      "query": "[\"type\":chapter]",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5395160
+                      }
+                    },
+                    {
+                      "query": "tag:#book  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 10835929
+                      }
+                    },
+                    {
+                      "query": "tag:#subject  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13655158
+                      }
+                    },
+                    {
+                      "query": "tag:#preview  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14267234
+                      }
+                    },
+                    {
+                      "query": "tag:#exam  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 10835929
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
               },
-              "icon": "lucide-file",
-              "title": "Parallel Systems"
-            }
+              "icon": "lucide-git-fork",
+              "title": "Graph of High-level concept"
+            },
+            "group": "e1d2ba38b6c540fc"
           }
         ]
       }
@@ -192,15 +282,32 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Pasted image 20250123215920.png",
-    "Pasted image 20250123210809.png",
-    "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures.md",
-    "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures/Parallel Systems.md",
-    "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts.md",
-    "01 - UiT/21-1 - Advanced Database Systems/Lectures/21 Advanced database systems.md",
-    "01 - UiT/21-1 - Advanced Database Systems/021 - Advanced Database Systems.md",
+    "01 - UiT/21-2 - GameLab/022 - GameLab.md",
     "01 - UiT/01 - UiT.md",
+    "01 - UiT/21-1 - Advanced Database Systems/021 - Advanced Database Systems.md",
+    "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts.md",
+    "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures.md",
+    "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures/Summary.md",
+    "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Data Analytics.md",
+    "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures/Cloud-Based Services.md",
+    "Pasted image 20250202192619.png",
+    "Pasted image 20250202190017.png",
+    "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures/Distributed System.md",
+    "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures/Transaction Processing in Parallel and Distributed Systems.md",
     "00 - Maps of Content/Home.md",
+    "01 - UiT/99-0 - Other/Dag Johansens life.md",
+    "01 - UiT/21-0 - Advanced Distributed Systems/lectures/Untitled.md",
+    "99 - Meta/Images/Transaction Processing in Parallel and Distributed Systems.md",
+    "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures/Centralized Database Systems.md",
+    "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures/Server System Architectures.md",
+    "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures/Parallel Systems.md",
+    "Pasted image 20250123215920.png",
+    "Pasted image 20250127220408.png",
+    "Pasted image 20250127214251.png",
+    "01 - UiT/99-0 - Other/Dissecting the software supply chain of modern industrial control systems.md",
+    "01 - UiT/99-0 - Other",
+    "Pasted image 20250123210809.png",
+    "01 - UiT/21-1 - Advanced Database Systems/Lectures/21 Advanced database systems.md",
     "01 - UiT/21-0 - Advanced Distributed Systems/020 - Advanced Distributed Systems.md",
     "01 - UiT/21-0 - Advanced Distributed Systems/lectures/41 Systems Research.md",
     "01 - UiT/21-0 - Advanced Distributed Systems/lectures/31 Intro lecture.md",
@@ -208,18 +315,7 @@
     "01 - UiT/21-1 - Advanced Database Systems/Lectures/32 Semi-structured data, Syntactic and semantic interoperability.md",
     "99 - Meta/Templates/Lecture.md",
     "01 - UiT/21-1 - Advanced Database Systems/Lectures/31 Data integration Interoperability and Heterogeneous Distributed Databases.md",
-    "01 - UiT/21-1 - Advanced Database Systems/Lectures/Lectures.md",
-    "01 - UiT/21-2 - GameLab/Lectures/Immersive storytelling.md",
-    "01 - UiT/21-2 - GameLab/Lectures/Lectures.md",
     "01 - UiT/21-0 - Advanced Distributed Systems/lectures",
-    "01 - UiT/21-1 - Advanced Database Systems/Reading/Principles of Distributed Database Systems.md",
-    "01 - UiT/21-1 - Advanced Database Systems/Reading/Next Generation Databases.md",
-    "01 - UiT/21-1 - Advanced Database Systems/Reading/Principles of Distributed Database Systems/NewSQL.md",
-    "01 - UiT/21-2 - GameLab/022 - GameLab.md",
-    "01 - UiT/21-2 - GameLab/Oral Exam.md",
-    "01 - UiT/21-2 - GameLab/Milestones/High-level concept.md",
-    "99 - Meta/Templates/Subject.md",
-    "01 - UiT/21-2 - GameLab/Milestones/Alpha.md",
     "01 - UiT/21-1 - Advanced Database Systems/Lectures",
     "Pasted image 20250109235022.png",
     "99 - Meta/Images",
@@ -229,7 +325,6 @@
     "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Parallel and Distributed Transaction Processing",
     "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Information Retrieval",
     "99 - Meta/Templates",
-    "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Parallel and Distributed Storage",
     "99 - Meta/Images/Pasted image 20250108180618.png"
   ]
 }

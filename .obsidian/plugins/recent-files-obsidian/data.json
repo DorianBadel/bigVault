@@ -1,32 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "Parallel Systems",
-      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures/Parallel Systems.md"
+      "basename": "High-level concept",
+      "path": "01 - UiT/21-2 - GameLab/Milestones/High-level concept.md"
     },
     {
-      "basename": "Database-System Architectures",
-      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures.md"
-    },
-    {
-      "basename": "Database system Concepts",
-      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts.md"
-    },
-    {
-      "basename": "21 Advanced database systems",
-      "path": "01 - UiT/21-1 - Advanced Database Systems/Lectures/21 Advanced database systems.md"
-    },
-    {
-      "basename": "021 - Advanced Database Systems",
-      "path": "01 - UiT/21-1 - Advanced Database Systems/021 - Advanced Database Systems.md"
+      "basename": "022 - GameLab",
+      "path": "01 - UiT/21-2 - GameLab/022 - GameLab.md"
     },
     {
       "basename": "01 - UiT",
       "path": "01 - UiT/01 - UiT.md"
     },
     {
+      "basename": "021 - Advanced Database Systems",
+      "path": "01 - UiT/21-1 - Advanced Database Systems/021 - Advanced Database Systems.md"
+    },
+    {
+      "basename": "Database system Concepts",
+      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts.md"
+    },
+    {
+      "basename": "Database-System Architectures",
+      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures.md"
+    },
+    {
+      "basename": "Data Analytics",
+      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Data Analytics.md"
+    },
+    {
+      "basename": "Cloud-Based Services",
+      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures/Cloud-Based Services.md"
+    },
+    {
+      "basename": "Distributed System",
+      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures/Distributed System.md"
+    },
+    {
+      "basename": "Transaction Processing in Parallel and Distributed Systems",
+      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures/Transaction Processing in Parallel and Distributed Systems.md"
+    },
+    {
       "basename": "Home",
       "path": "00 - Maps of Content/Home.md"
+    },
+    {
+      "basename": "Dag Johansens life",
+      "path": "01 - UiT/99-0 - Other/Dag Johansens life.md"
+    },
+    {
+      "basename": "Centralized Database Systems",
+      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures/Centralized Database Systems.md"
+    },
+    {
+      "basename": "Server System Architectures",
+      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures/Server System Architectures.md"
+    },
+    {
+      "basename": "Parallel Systems",
+      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures/Parallel Systems.md"
+    },
+    {
+      "basename": "Pasted image 20250123215920",
+      "path": "Pasted image 20250123215920.png"
+    },
+    {
+      "basename": "Dissecting the software supply chain of modern industrial control systems",
+      "path": "01 - UiT/99-0 - Other/Dissecting the software supply chain of modern industrial control systems.md"
+    },
+    {
+      "basename": "21 Advanced database systems",
+      "path": "01 - UiT/21-1 - Advanced Database Systems/Lectures/21 Advanced database systems.md"
     },
     {
       "basename": "020 - Advanced Distributed Systems",
@@ -81,16 +125,8 @@
       "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Principles of Distributed Database Systems/NewSQL.md"
     },
     {
-      "basename": "022 - GameLab",
-      "path": "01 - UiT/21-2 - GameLab/022 - GameLab.md"
-    },
-    {
       "basename": "Oral Exam",
       "path": "01 - UiT/21-2 - GameLab/Oral Exam.md"
-    },
-    {
-      "basename": "High-level concept",
-      "path": "01 - UiT/21-2 - GameLab/Milestones/High-level concept.md"
     },
     {
       "basename": "Subject",
@@ -113,28 +149,12 @@
       "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Complex Data Types/Object Orientation.md"
     },
     {
-      "basename": "Server System Architectures",
-      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures/Server System Architectures.md"
-    },
-    {
-      "basename": "Distributed System",
-      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures/Distributed System.md"
-    },
-    {
-      "basename": "Centralized Database Systems",
-      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures/Centralized Database Systems.md"
-    },
-    {
       "basename": "Semi-structured Data",
       "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Complex Data Types/Semi-structured Data.md"
     },
     {
       "basename": "Beta",
       "path": "01 - UiT/21-2 - GameLab/Milestones/Beta.md"
-    },
-    {
-      "basename": "Data Analytics",
-      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Data Analytics.md"
     },
     {
       "basename": "Parallel and Distributed Storage",
@@ -175,30 +195,6 @@
     {
       "basename": "Tables are Not Your Friends - Graph Databases",
       "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Next Generation Databases/Tables are Not Your Friends - Graph Databases.md"
-    },
-    {
-      "basename": "Document Databases",
-      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Next Generation Databases/Document Databases.md"
-    },
-    {
-      "basename": "Sharding Amazon and the Birth of NoSQL",
-      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Next Generation Databases/Sharding Amazon and the Birth of NoSQL.md"
-    },
-    {
-      "basename": "Google Big Data and Hadoop",
-      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Next Generation Databases/Google Big Data and Hadoop.md"
-    },
-    {
-      "basename": "Three Database Revolutions",
-      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Next Generation Databases/Three Database Revolutions.md"
-    },
-    {
-      "basename": "Polystores",
-      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Principles of Distributed Database Systems/Polystores.md"
-    },
-    {
-      "basename": "NoSQL",
-      "path": "01 - UiT/21-1 - Advanced Database Systems/Reading/Principles of Distributed Database Systems/NoSQL.md"
     }
   ],
   "omittedPaths": [],

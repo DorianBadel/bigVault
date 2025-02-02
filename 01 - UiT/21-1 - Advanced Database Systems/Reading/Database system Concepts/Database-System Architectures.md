@@ -3,7 +3,7 @@ chapter: 200
 start: 961
 end: 998
 type: chapter
-read:
+read: true
 ---
 *[[Centralized Database Systems]]* - Built to run on a single physical machine. Can support more than tens of thousands of users and a database sizes ranging from megabytes to hundreds of gigabytes.
 
@@ -18,7 +18,10 @@ LIST
 FROM "01 - UiT/21-1 - Advanced Database Systems/Reading/Database system Concepts/Database-System Architectures"
 SORT chapter
 ```
-[[Centralized Database Systems]]/[[Server System Architectures]]/[[Parallel Systems]]/[[Distributed System]]
+Revision terms on page 997 (or 1005 in pdf)
+Practice Exercises and Summary also provided.
+
+[[Centralized Database Systems]]/[[Server System Architectures]]/[[Parallel Systems]]/[[Distributed System]]/[[Transaction Processing in Parallel and Distributed Systems]]/[[Cloud-Based Services]]
 
 
 
